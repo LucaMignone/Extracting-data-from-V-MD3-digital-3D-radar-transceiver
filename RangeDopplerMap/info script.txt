@@ -1,0 +1,1 @@
+This script plot the range-doppler map of selected file.
